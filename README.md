@@ -1,4 +1,7 @@
-**Описание**
+[Frontend Demo](test-task-gpt-chat.vercel.app) | 
+[Backend API](https://testtaskgptchat.onrender.com/docs)
+
+**Описание для локального запуска**
 
 Это простое full-stack веб-приложение, состоящее из двух частей:
 
