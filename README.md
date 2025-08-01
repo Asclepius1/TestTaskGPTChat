@@ -1,4 +1,4 @@
-[Frontend Demo](test-task-gpt-chat.vercel.app) | 
+[Frontend Demo](https://test-task-gpt-chat.vercel.app) | 
 [Backend API](https://testtaskgptchat.onrender.com/docs)
 
 **Описание для локального запуска**
